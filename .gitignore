@@ -7,9 +7,4 @@ app/build
 yarn.lock
 yarn-error.log
 *.psd
-env/
-
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+venv/
